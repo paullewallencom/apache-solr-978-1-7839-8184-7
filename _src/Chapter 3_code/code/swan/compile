@@ -1,0 +1,1 @@
+javac -cp lib/asm-all-4.2.jar:lib/parboiled-core-1.1.4.jar:lib/parboiled-java-1.1.4.jar:lib/solr-core-4.8.1.jar:lib/solr-solrj-4.8.1.jar:lib/lucene-core-4.8.1.jar *.java

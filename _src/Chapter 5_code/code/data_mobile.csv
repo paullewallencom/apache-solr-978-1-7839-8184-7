@@ -1,0 +1,8 @@
+sku,name,brand,cat,price,mobile_os,mobile_screen_size,instock
+m0001,moto g,motorola,mobile,160,android,4.5,true
+m0002,moto x,motorola,mobile,480,android,4.7,true
+m0003,iphone 5,apple,mobile,500,mac os,5,true
+m0004,iphone 4,apple,mobile,200,mac os,4,false
+m0005,iphone 5c,apple,mobile,450,mac os,5,true
+m0006,iphone 4s,apple,mobile,230,mac os,4,true
+m0007,iphone 5s,apple,mobile,550,mac os,5,true

@@ -1,0 +1,3 @@
+sku,name,brand,cat,price,laptop_os,laptop_hdd,laptop_ram,laptop_processor
+l0001,hp probook 4440,hp,laptop,350,windows 8,500 GB,4 GB,intel i5
+l0002,mac book air,apple,laptop,800,mac os 10,128 GB,4 GB,intel i5

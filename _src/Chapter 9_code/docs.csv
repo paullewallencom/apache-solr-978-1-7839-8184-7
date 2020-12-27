@@ -1,0 +1,12 @@
+id,cat,name,price,inStock,description
+0553573403,book,A Game of Thrones,7.99,true,Author: George R.R. Martin
+0553579908,book,A Clash of Kings,7.99,true,Author: George R.R. Martin
+055357342X,book,A Storm of Swords,7.99,true,Author: George R.R. Martin
+SP2514N,electronics,Samsung SpinPoint P120 SP2514N - hard drive - 250 GB - ATA-133,92,true,7200RPM 8MB cache IDE Ultra ATA-133 NoiseGuard SilentSeek technology
+6H500F0,electronics,Maxtor DiamondMax 11 - hard drive - 500 GB - SATA-300,350,true,8.5ms seek 16MB cache SATA 3.0Gb/s
+VDBDB1A16,electronics,A-DATA V-Series 1GB 184-Pin DDR SDRAM Unbuffered DDR 400 (PC 3200) System Memory - OEM,104,true,memory CAS latency 3 2.7v
+VS1GB400C3,electronics,CORSAIR ValueSelect 1GB 184-Pin DDR SDRAM Unbuffered DDR 400 (PC 3200) System Memory - Retail,74.99,true,memory Corsair Microsystems Inc
+USD,currency,One Dollar,1,true,Bank of America Coins and notes
+EUR,currency,One Euro,1,true,European Union Coins and notes
+GBP,currency,One British Pound,1,true,U.K. Coins and notes
+NOK,currency,One Krone,1,true,Bank of Norway Coins and notes

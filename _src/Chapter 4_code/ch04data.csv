@@ -1,0 +1,21 @@
+id,model_s,brand_s,price_i,discount_i,size_f,memory_i
+CP9001,Moto G 8GB,Motorola,100,10,4.5,8
+CP9002,Moto G 16GB,Motorola,120,10,4.5,16
+CP9003,Moto X 8GB,Motorola,200,15,4.9,8
+CP9004,Moto X 16GB,Motorola,220,15,4.9,16
+CP9005,Galaxy S2,Samsung,150,20,5.1,8
+CP9006,Galaxy S3,Samsung,200,15,5.1,16
+CP9007,Galaxy S4,Samsung,250,10,5.1,16
+CP9008,Galaxy Grand,Samsung,90,10,4.1,4
+CP9009,Lumia 520,Nokia,80,0,4,8
+CP9010,Lumia 610,Nokia,110,5,4.3,8
+CP9011,Lumia 730,Nokia,140,5,4.7,16
+CP9012,Lumia 910,Nokia,190,5,5.5,16
+CP9013,Lumia 1020,Nokia,270,10,6.1,16
+CP9014,IPhone 5,Apple,400,25,4,16
+CP9015,IPhone 5S,Apple,450,25,4,16
+CP9016,IPhone 4,Apple,350,30,4,16
+CP9017,IPhone 6,Apple,550,10,5,16
+CP9018,Desire 510,HTC,150,10,5,8
+CP9019,Desire 816,HTC,250,10,5.5,16
+CP9020,HTC One,HTC,350,15,5.5,16

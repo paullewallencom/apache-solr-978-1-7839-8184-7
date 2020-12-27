@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<solr>
+ <!-- Values are supplied from SOLR_OPTS env variavle in setenv.sh -->
+  <solrcloud>
+    <str name="host">${host:}</str>
+    <int name="hostPort">${port:}</int>
+    <str name="hostContext">${hostContext:}</str>
+    <int name="zkClientTimeout">${zkClientTimeout:}</int>
+    <bool name="genericCoreNodeNames">${genericCoreNodeNames:true}</bool>
+  </solrcloud>
+ 
+  <shardHandlerFactory name="shardHandlerFactory"
+    class="HttpShardHandlerFactory">
+    <int name="socketTimeout">${socketTimeout:0}</int>
+    <int name="connTimeout">${connTimeout:0}</int>
+  </shardHandlerFactory>
+ 
+</solr>
+<!-- 
+<solr persistent="true" sharedLib="lib"> 
+  <cores adminPath="/admin/cores" zkClientTimeout="20000" hostPort="8080" hostContext="solr">
+    <core numShards="2" name="mycollection_shard1_replica1" instanceDir="mycollection_shard1_replica1" shard="shard1" collection="mycollection" coreNodeName="10.0.3.197:8080_solr_mycollection_shard1_replica1"/>
+</cores> 
+</solr> -->

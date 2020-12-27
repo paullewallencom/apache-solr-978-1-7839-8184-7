@@ -1,0 +1,9 @@
+sku,name,brand,cat,price,clothes_gender,clothes_type,clothes_size,clothes_fitting,clothes_occassion,clothes_color,instock
+c0001,warm sweater,wrangler,clothes,100,men,sweater,medium,slim fit,casual,pink,true
+c0002,tommy hilfiger sweater,tommy hilfiger,clothes,150,men,sweater,medium,slim fit,casual,green,true
+c0003,tommy hilfiger sweater,tommy hilfiger,clothes,150,men,sweater,large,slim fit,casual,green,true
+c0004,tommy hilfiger sweater,tommy hilfiger,clothes,150,men,sweater,small,slim fit,casual,green,false
+c0005,tommy hilfiger sweater,tommy hilfiger,clothes,170,men,sweater,medium,slim fit,casual,red,true
+c0006,wrangler jeans,wrangler,clothes,120,men,jeans,34,slim fit,casual,blue,true
+c0007,tommy hilfiger sweater,tommy hilfiger,clothes,170,men,sweater,large,slim fit,casual,red,true
+c0008,skinny fit black jeans,blue jeans,clothes,120,men,jeans,34,slim fit,casual,black,true

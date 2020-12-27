@@ -1,0 +1,8 @@
+sku,name,brand,cat,price,clothes_gender,hr_l0,hr_l1,hr_l2,hr_l3,hr_l4,instock
+s0001,adidas hiking shoes,adidas,shoes,100,mens,dept_shoes,mens,outdoor,hiking,boots,true
+s0002,adidas running shoes,adidas,shoes,110,mens,dept_shoes,mens,outdoor,running,sports shoes,true
+s0003,nike hiking shoes,nike,shoes,120,mens,dept_shoes,mens,outdoor,hiking,shoes,true
+s0004,nike running shoes,nike,shoes,130,mens,dept_shoes,mens,outdoor,running,sports shoes,true
+s0005,woodland hiking shoes,woodland,shoes,300,mens,dept_shoes,mens,outdoor,hiking,boots,true
+s0006,woodland formal shoes,woodland,shoes,200,mens,dept_shoes,mens,work,formals,shoes,true
+s0007,lee cooper office shoes,lee cooper,shoes,120,mens,dept_shoes,mens,work,formals,shoes,true

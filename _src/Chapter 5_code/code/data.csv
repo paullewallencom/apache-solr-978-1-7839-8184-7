@@ -1,0 +1,16 @@
+sku,name,brand,cat,price,clothes_gender,clothes_type,clothes_size,clothes_fitting,clothes_occassion,clothes_color
+c0001,warm sweater,wrangler,clothes,100,men,sweater,medium,slim fit,casual,pink
+c0002,tommy hilfiger sweater,tommy hilfiger,clothes,150,men,sweater,medium,slim fit,casual,green
+c0003,tommy hilfiger sweater,tommy hilfiger,clothes,150,men,sweater,large,slim fit,casual,green
+c0004,tommy hilfiger sweater,tommy hilfiger,clothes,150,men,sweater,small,slim fit,casual,green
+c0005,tommy hilfiger sweater,tommy hilfiger,clothes,150,men,sweater,medium,slim fit,casual,red
+c0006,wrangler jeans,wrangler,clothes,120,men,jeans,34,slim fit,casual,blue
+
+sku,name,brand,cat,price,,mobile_os,mobile_screen_size
+m0001,moto g,motorola,mobile,160,android,4.5
+m0002,moto x,motorola,mobile,480,android,4.7
+m0003,iphone 5,apple,mobile,500,mac os,5
+
+sku,name,brand,cat,price,laptop_os,laptop_hdd,laptop_ram,laptop_processor
+l0001,hp probook 4440,hp,laptop,350,windows 8,500 GB,4 GB,intel i5
+l0002,mac book air,apple,laptop,800,mac os 10,128 GB,4 GB,intel i5

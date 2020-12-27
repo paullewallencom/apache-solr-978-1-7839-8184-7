@@ -1,0 +1,1 @@
+javac -cp ../lib/jedis-1.5.0.jar:../lib/log4j-1.2.16.jar:../lib/lucene-core-4.8.1.jar:../lib/slf4j-api-1.7.6.jar:../lib/slf4j-log4j12-1.7.6.jar:../lib/solr-core-4.8.1.jar:../lib/solr-solrj-4.8.1.jar -d . *.java
